@@ -1,6 +1,5 @@
-import logo from '../../assets/img/lucasdzin.jpg'
-
-import './styles.css'
+import logo from '../../assets/img/lucasdzin.jpg';
+import './styles.css';
 
 function Header() {
     return (
@@ -14,4 +13,4 @@ function Header() {
     )
 }
 
-export default Header
+export default Header;
