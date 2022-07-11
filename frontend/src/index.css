@@ -26,3 +26,13 @@ a:hover {
   color: #ebb970;
   text-decoration: none;
 }
+
+#sales {
+  padding: 40px 10px;
+}
+
+.dsmeta-container {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 900px;
+}
