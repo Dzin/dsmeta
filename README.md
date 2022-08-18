@@ -14,3 +14,9 @@ buscar vendas em um dado intervalo de datas, e poderá notificar via SMS os dado
 4. Camadas, componentes, boas práticas
 5. Integração com SMS (Twilio)
 6. Implantação na nuvem com CI/CD (Netlify e Heroku)
+
+## 📝 Licença
+
+Esse projeto está sob licença. Acesse [Licença Pública Geral GNU Versão 2](https://www.gnu.org/licenses/gpl-2.0.html) para mais detalhes.
+
+[⬆ Voltar ao topo](#semana-spring-react-projeto-full-stack)
