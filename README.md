@@ -6,7 +6,7 @@ buscar vendas em um dado intervalo de datas, e poderá notificar via SMS os dado
 - **Back-end**: Java, Spring Boot, SQL(H2)
 - **Front-end**: HTML, CSS, Javascript/Typescript, React JS
 
-## 🚀 Pricipais assuntos abordados
+## 🚀 Principais assuntos abordados
 
 1. API REST com Java e Spring Boot
 2. Banco de dados com ORM
