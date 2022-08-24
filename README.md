@@ -15,7 +15,7 @@ buscar vendas em um dado intervalo de datas, e poderá notificar via SMS os dado
 3. Front-end com React JS
 4. Camadas, componentes, boas práticas
 5. Integração com SMS (Twilio)
-6. Implantação na nuvem com CI/CD (Netlify e Heroku)
+6. Implantação na nuvem com CI/CD (Netlify|Front-end e Heroku|Back-end)
 
 ## 📝 Licença
 
